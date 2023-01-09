@@ -11,11 +11,11 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 このModの一部コードは The Other Roles および The Other Roles GM Edition のものを使用しています。
 
 # Twitter
-[開発者Twitter](https://twitter.com/NebulaOnTheShip)\
+[開発者Twitter](https://twitter.com/huolangwangluo)\
 更新情報やちょっとした裏話などなどを掲載しています。ぜひフォローよろしくお願いいたします！
 
 # Discord
-バグ報告などの情報交換は[こちら](https://discord.gg/kHNZD4pq9E)でお願いいたします。
+バグ報告などの情報交換は[こちら](https://discord.gg/ge96EtG7)でお願いいたします。
 
 # More Cosmic!
 当Modでは、プレイヤーが新たに使えるようになる**ハット**と**ネームプレート**のデザインを募集しています。\
@@ -29,6 +29,7 @@ This mod is not affiliated with Among Us or Innersloth LLC, and the content cont
 
 | Version | Among Us Version | Download |
 | ---------- | ---------- | ---------- |
+|23.01.08b | 2022.12.14 | [Download](https://github.com/huolangwangluo/Nebula/releases/download/23.01.08b/Nebula_v23.01.08b.zip)
 | 2.0.2.1 | 2022.12.8s | [Download](https://github.com/Dolly1016/Nebula/releases/download/2.0.2.1,2022.12.8/Nebula_v2.0.2.1.zip)|
 | 2.0.2 | 2022.12.8s | [Download](https://github.com/Dolly1016/Nebula/releases/download/2.0.2,2022.12.8/Nebula_v2.0.2.zip)|
 | 2.0.1.1 | 2022.12.8s | [Download](https://github.com/Dolly1016/Nebula/releases/download/2.0.1.1,2022.12.8/Nebula_v2.0.1.1.zip)|
